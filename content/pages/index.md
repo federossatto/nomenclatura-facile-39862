@@ -67,7 +67,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
-        url: 'mailto:'
+        url: 'mailto:nome'
         style: primary
 seo:
   title: Stackbit Libris Theme
