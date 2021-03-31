@@ -21,7 +21,7 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/Perossidi.png
+        image: images/purple-celery.png
         content: |
           ### **IDRURI**
 
