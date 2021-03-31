@@ -31,6 +31,11 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/1.jpg
         content: >
+          #### LEZIONI
+
+
+
+
           Salve, sono Luca, un liceale in ambito scientifico che frequenta
           l’indirizzo di scienze applicate. La mia più grande passione è il
           tennis che pratico da parecchi anni. Amo creare ed inventare pertanto
@@ -38,9 +43,7 @@ sections:
           sito vi possa essere d’aiuto per eventuali chiarimenti =).
 
 
-
-
-          Buon proseguimento                                         
+          Buon proseguimento
       - title: Micael
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
