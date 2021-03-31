@@ -1,5 +1,5 @@
 ---
-title: Idruri
+title: IDRURI
 subtitle: Lezione (tradizionale)
 image: images/image329.jpg
 has_more_link: true
