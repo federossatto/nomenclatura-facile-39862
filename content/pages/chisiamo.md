@@ -61,14 +61,6 @@ sections:
 
 
           Buon divertimento
-      - title: 'Con l''aiuto di:'
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        content: |
-          *   Edoardo: Grafica, spot e programmazione
-
-          <!---->
-
-          *   Federica, Margherita e Simone:  tester nella fase alpha
   - title: 'CON L''AIUTO DI:'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
