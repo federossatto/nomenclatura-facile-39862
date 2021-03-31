@@ -154,7 +154,7 @@ sections:
 
           ##### Si forma con: H + non metallo + O
 
-          *   *HClO4 acido perclorico*
+          *   *HClO<sub>4</sub> acido perclorico*
 
           <!---->
 
