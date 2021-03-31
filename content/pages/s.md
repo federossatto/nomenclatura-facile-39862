@@ -91,7 +91,7 @@ sections:
 
           ##### Si forma con: \[O...+1]+metallo
 
-          *   *Na<sub>2</sub<O<sub>2</sub> perossido di sodio*
+          *   *Na<sub>2</sub>O<sub>2</sub> perossido di sodio*
 
           <!---->
 
