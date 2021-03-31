@@ -39,7 +39,8 @@ excerpt: >-
   Prendendo come esempio l’idrogeno e il ferro, bisogna innanzitutto sapere le
   valenze. Valenza H=1 e valenze Fe= 2 e 3 ma in questo caso 2. Nei composti
   binari, per scrivere la formula bruta, è necessario invertire le valenze degli
-  elementi, quindi il composto sarà FeH2 (1 non si scrive).     N.B.: negli
+  elementi, quindi il composto sarà FeH2 (1 non si scrive).     
+  N.B.: negli
   idruri l’idrogeno è posizionato sempre dopo il metallo perché ha
   l’elettronegatività costantemente superiore.     NOME  Per quanto riguarda il
   nome si scrive sempre idruro seguito da:      1.  di + NOME DELL’ELEMENTO se
