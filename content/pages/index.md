@@ -57,10 +57,7 @@ sections:
 
 
       ***Lo staff di Nomenclatura Facile***
-    actions:
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
+    actions: []
   - section_id: cta
     type: section_cta
     title: Feedback
