@@ -68,13 +68,11 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |+
-          Composto binario
+          #### Composto binario
 
           ##### Si forma con: O+metallo
 
           *   *Fe2O3 ossido ferrico*
-
-          <!---->
 
         actions: []
         type: grid_item
