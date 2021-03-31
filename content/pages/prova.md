@@ -13,10 +13,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - label: Vai alla pagina
-            url: /blog
-            style: link
+        actions: []
   - section_id: text-img
     type: section_content
     image: images/analysis-2030265.jpg
