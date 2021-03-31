@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
-layout: post
+
 ---
 
 **Vis accumsan feugiat** adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. 
