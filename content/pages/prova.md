@@ -21,7 +21,7 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/purple-celery.png
+        image: images/ritagliata.png
         content: |
           ### **IDRURI**
 
