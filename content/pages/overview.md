@@ -8,11 +8,6 @@ sections:
   - section_id: docs-overview
     type: section_docs
     col_number: three
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    type: section_docs
 seo:
   title: Overview
   description: This is the overview page
