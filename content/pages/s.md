@@ -89,7 +89,7 @@ sections:
         content: |+
           #### Composto binario
 
-          ##### Si forma con: \[O...+1]+metallo
+          ##### Si forma con: \[O...<sub>+1]+metallo
 
           *   *Na<sub>2</sub>O<sub>2</sub> perossido di sodio*
 
