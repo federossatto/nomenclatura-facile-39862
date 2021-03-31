@@ -69,7 +69,7 @@ sections:
           <!---->
 
           *   Federica, Margherita e Simone:  tester nella fase alpha
-  - title: lorem-ipsum
+  - title: 'CON L''AIUTO DI:'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
