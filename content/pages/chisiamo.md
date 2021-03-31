@@ -19,7 +19,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/1.jpg
         content: A personal theme for Unibit
-      - title: Fjord
+      - title: Micael
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
         content: A minimal blogging theme for Unibit
