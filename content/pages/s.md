@@ -75,7 +75,7 @@ sections:
           *   *Fe<sub>2</sub>O<sub>3</sub> ossido ferrico*
 
         actions:
-          - label: lorem-ipsum
+          - label: alla iav
             url: '#'
             style: link
             icon_class: dev
