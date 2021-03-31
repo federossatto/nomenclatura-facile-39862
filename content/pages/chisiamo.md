@@ -63,7 +63,6 @@ sections:
           Buon divertimento
       - title: Ampersand
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
 seo:
   title: Showcase
