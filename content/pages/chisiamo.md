@@ -63,7 +63,12 @@ sections:
           Buon divertimento
       - title: 'Con l''aiuto di:'
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        content: Medium inspired blogging theme for Unibit
+        content: |
+          *   Edoardo: Grafica, spot e programmazione
+
+          <!---->
+
+          *   Federica, Margherita e Simone:  tester nella fase alpha
 seo:
   title: Showcase
   description: This is the showcase page
