@@ -12,7 +12,6 @@ sections:
     grid_items:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
-        image: images/6.jpg
         content: A portfolio theme for Unibit
         actions:
           - label: lorem-ipsum
