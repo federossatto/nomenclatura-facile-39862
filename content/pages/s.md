@@ -196,7 +196,7 @@ sections:
 
           ##### Si forma con: metallo + H + non metallo + O
 
-          *   *AgH<sub>2</sub>BO<3 (orto)borato biacido di argento*
+          *   *AgH<sub>2</sub>BO<sub>3</sub> (orto)borato biacido di argento*
 
           <!---->
 
