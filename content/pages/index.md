@@ -31,10 +31,7 @@ sections:
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Vai alla pagina
-            url: '/ #Feedback'
-            style: link
+        actions: []
   - section_id: text-img
     type: section_content
     image: images/analysis-2030265.jpg
