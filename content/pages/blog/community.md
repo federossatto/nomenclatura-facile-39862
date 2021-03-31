@@ -2,8 +2,7 @@
 title: DEFINIZIONE
 excerpt: >-
   Gli idruri sono una classe di composti binari, ovvero formati da due elementi,
-  uno dei quali è sempre l&#146;idrogeno H e l&#146;altro è costantemente un
-  metallo.
+  uno dei quali è sempre l&#146;idrogeno H e l'altro è costantemente un metallo.
 image: images/2.jpg
 seo:
   title: Community Round-up
