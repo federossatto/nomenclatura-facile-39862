@@ -15,7 +15,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/3.jpg
         content: A portfolio theme for Unibit
-      - title: Fresh
+      - title: Luca
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/1.jpg
         content: A personal theme for Unibit
