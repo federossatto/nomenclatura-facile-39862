@@ -24,9 +24,6 @@ sections:
         actions: []
         type: grid_item
         content: >
-          ### GLI IDRURI 
-
-
           ###### *In Breve*
 
 
