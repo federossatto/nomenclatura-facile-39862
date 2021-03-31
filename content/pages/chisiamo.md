@@ -61,7 +61,7 @@ sections:
 
 
           Buon divertimento
-      - title: Ampersand
+      - title: 'Con l''aiuto di:'
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         content: Medium inspired blogging theme for Unibit
 seo:
