@@ -30,7 +30,7 @@ sections:
           Buona continuazione
       - title: Luca
         title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/1.jpg
+        image: images/tennis-1605799.jpg
         content: >
           ##### *LEZIONI*
 
