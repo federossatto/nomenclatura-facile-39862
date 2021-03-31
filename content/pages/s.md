@@ -25,17 +25,12 @@ sections:
       - title: Idracidi
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: |+
-          Composto binario
+        content: |
+          #### Composto binario
 
           ##### Si forma con: H+metallo
 
-          *   \<sub>*3*\</sub> idruro ferrico*FeH*
-
-
-
-          *   \<sub>*4*\</sub>* metanoCH*
-
+          *   *HF acido fluoridrico*
         actions: []
         type: grid_item
 seo:
