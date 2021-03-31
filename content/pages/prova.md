@@ -23,7 +23,6 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/ritagliata.png
         content: >
           ### GLI IDRURI 
 
