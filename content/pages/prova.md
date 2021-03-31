@@ -28,15 +28,13 @@ sections:
 
           *In breve*
 
-          **
 
-          **
 
-          **
+
 
           *   composto Binario
 
-          *   H+metallo
+          *   H + metallo
 
           *
       - title_url: lorem-ipsum
