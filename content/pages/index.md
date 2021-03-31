@@ -58,9 +58,6 @@ sections:
 
       ***Lo staff di Nomenclatura Facile***
     actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
       - label: Get Started
         url: /docs/getting-started
         style: secondary
