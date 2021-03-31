@@ -28,18 +28,6 @@ sections:
         url: /docs/getting-started
         style: secondary
     image: images/avatar.png
-  - section_id: cta
-    type: section_cta
-    title: Feedback
-    subtitle: >-
-      Qualunque feedback, anche se di poche parole, è ben accetto per avere un
-      riscontro sul nostro sito. Segnalateci eventuali problematiche riscontrate
-      o consigli che ci volete dare. Tutto ciò che bisogna fare è mettere il
-      vostro nome e una mail, ed il gioco è fatto.
-    actions:
-      - label: Invia
-        url: 'href?="mailto:nomenclatura.facile@mail.com"'
-        style: primary
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
