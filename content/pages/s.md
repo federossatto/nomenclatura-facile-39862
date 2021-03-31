@@ -175,7 +175,7 @@ sections:
 
           ##### Si forma con: metallo + non metallo + O
 
-          *   *Sr(ClO)2</sub> ipoclorito di stronzio*
+          *   *Sr(ClO)<sub>2</sub> ipoclorito di stronzio*
 
           <!---->
 
