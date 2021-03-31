@@ -36,17 +36,12 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          #### Composto binario
 
+          ##### Si forma con: alogeno o zolfo + metallo
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   CuCl cloruro rameoso
         actions: []
         type: grid_item
 seo:
