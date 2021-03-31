@@ -35,7 +35,7 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: post
-excerpt: >-
+rpt: >-
   Prendendo come esempio l’idrogeno e il ferro, bisogna innanzitutto sapere le
   valenze. Valenza H= 1 e valenze Fe= 2 e 3 ma in questo caso 2. Nei composti
   binari, per scrivere la formula bruta, è necessario invertire le valenze degli
