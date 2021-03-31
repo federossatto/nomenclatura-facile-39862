@@ -167,7 +167,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: lorem-ipsum
+      - title: Sali ternari
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
