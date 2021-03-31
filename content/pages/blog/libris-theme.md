@@ -36,10 +36,6 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  Rounded Rectangle:  HOME  CHI SIAMO  LEZIONI  TEST  LASCIACI UN FEEDBACK  
-  IDRURI   (LEZIONE)  Gli idruri sono una classe di composti binari, ovvero
-  formati da due elementi, uno dei quali è sempre l’idrogeno H e l’altro è
-  costantemente un metallo.  DEFINIZIONE  COME SI FORMANO?  FORMULA BRUTA 
   Prendendo come esempio l’idrogeno e il ferro, bisogna innanzitutto sapere le
   valenze. Valenza H=1 e valenze Fe= 2 e 3 ma in questo caso 2. Nei composti
   binari, per scrivere la formula bruta, è necessario invertire le valenze degli
