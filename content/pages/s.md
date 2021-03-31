@@ -28,7 +28,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: 'Idracidi '
+      - title: Idracidi
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
