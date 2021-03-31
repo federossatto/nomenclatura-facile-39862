@@ -22,7 +22,7 @@
             },
             {
                 "label": "Lezioni",
-                "url": "/blog",
+                "url": "/lezioni",
                 "style": "link",
                 "has_subnav": false
             },
