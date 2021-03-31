@@ -28,9 +28,9 @@ sections:
 
           *In breve*
 
-          **
 
-          **
+
+
 
           *   composto Binario
 
