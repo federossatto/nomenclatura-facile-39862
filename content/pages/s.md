@@ -128,17 +128,15 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          #### Composto ternario
 
+          ##### Si forma con: (OH) + metallo
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   *Fe(OH)3 idrossido ferrico*
 
+          <!---->
 
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
 seo:
