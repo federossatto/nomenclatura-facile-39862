@@ -9,7 +9,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Esercizi
+      - title: DEFINIZIONE
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
