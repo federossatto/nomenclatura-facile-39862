@@ -41,7 +41,7 @@ sections:
 
           ##### Si forma con: alogeno o zolfo + metallo
 
-          *   CuCl cloruro rameoso
+          *   *CuCl cloruro rameoso*
         actions: []
         type: grid_item
 seo:
