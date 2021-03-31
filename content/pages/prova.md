@@ -76,11 +76,6 @@ sections:
       - label: Invia
         url: 'href?="mailto:nomenclatura.facile@mail.com"'
         style: primary
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    type: section_docs
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
