@@ -21,7 +21,7 @@ excerpt: >-
   idruro ferrico     N.B.: per alcuni elementi si usano altre radici come ad
   esempio per l’oro che si scrive aurico o auroso.     Inoltre alcuni composti
   vengono chiamati con altri nomi:                  CH4 metano                 
-  NH3 ammoniaca                  PH3 fosfinaa
+  NH3 ammoniaca                  PH3 fosfina
 date: '2019-04-24'
 image: images/3.jpg
 seo:
