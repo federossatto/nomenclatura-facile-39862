@@ -37,7 +37,7 @@ seo:
 layout: post
 excerpt: >-
   
-  N.B.: negli
+  \n N.B.: negli
   idruri l’idrogeno è posizionato sempre dopo il metallo perché ha
   l’elettronegatività costantemente superiore.     NOME  Per quanto riguarda il
   nome si scrive sempre idruro seguito da:      1.  di + NOME DELL’ELEMENTO se
