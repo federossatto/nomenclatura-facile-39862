@@ -18,7 +18,7 @@ sections:
 
           ##### Si forma con: H+metallo
 
-          *   *FeH <sub>3</sub> idruro ferrico*
+          *   *FeH<sub>3</sub> idruro ferrico*
         actions: []
         type: grid_item
       - title: lorem-ipsum
