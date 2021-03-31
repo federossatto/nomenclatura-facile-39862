@@ -15,9 +15,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/3.jpg
         content: >
-          ##### TEST E PROGRAMMAZIONE
-
-
+          ##### *TEST E PROGRAMMAZIONE*
 
 
           Buongiorno a tutti, mi chiamo Federico e sono uno studente di seconda
