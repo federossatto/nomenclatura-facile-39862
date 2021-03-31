@@ -65,7 +65,7 @@ sections:
       vostro nome e una mail, ed il gioco è fatto.
     actions:
       - label: Invia
-        url: [user@example.co(mailto:user@example.com)
+        url: [user@example.com(mailto:user@example.com)
         style: primary
 seo:
   title: Stackbit Libris Theme
