@@ -9,7 +9,6 @@ sections:
     type: section_docs
     col_number: three
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     type: section_docs
 seo:
