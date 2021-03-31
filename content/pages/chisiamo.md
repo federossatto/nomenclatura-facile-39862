@@ -49,14 +49,17 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
         content: >
+          ##### *TEST*
+
+
+
+
           Buongiorno a tutti, mi chiamo Micael e sono uno studente di seconda
           liceo, indirizzo scienze applicate. Le mie più grandi passioni sono la
           musica, la lettura e le materie scientifiche perciò ho deciso di
           contribuire alla creazione di questo sito web in modo da permettere a
           chiunque di essere aiutato nell’argomento della nomenclatura.  Spero
           di esservi d’aiuto.
-
-
 
 
           Buon divertimento
