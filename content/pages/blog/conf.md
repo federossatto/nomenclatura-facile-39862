@@ -4,7 +4,6 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
   nam libero justo laoreet sit.
 date: '2019-03-10'
-image: images/2.jpg
 seo:
   title: New Conference
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
