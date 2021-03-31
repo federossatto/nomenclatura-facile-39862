@@ -36,7 +36,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/analysis-2030265.jpg
     image_position: left
     title: PERCHÉ QUESTO SITO WEB?
     content: >
