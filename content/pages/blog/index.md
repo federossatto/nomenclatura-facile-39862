@@ -2,7 +2,7 @@
 title: IDRURI
 subtitle: Lezione (tradizionale)
 image: images/image329.jpg
-has_more_link: true
+has_more_link: false
 more_link_text: Read more
 seo:
   title: Blog
