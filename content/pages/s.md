@@ -133,7 +133,7 @@ sections:
 
           ##### Si forma con: (OH) + metallo
 
-          *   *Fe(OH)3</sub> idrossido ferrico*
+          *   *Fe(OH)<sub>3</sub> idrossido ferrico*
 
           <!---->
 
