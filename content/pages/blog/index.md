@@ -1,7 +1,7 @@
 ---
 title: Idruri
 subtitle: Lezione (tradizionale)
-image: images/5.jpg
+image: images/image329.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
