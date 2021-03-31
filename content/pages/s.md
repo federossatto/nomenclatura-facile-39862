@@ -159,7 +159,7 @@ sections:
           <!---->
 
         actions:
-          - label: lorem-ipsum
+          - label: vai alla lezione
             url: '#'
             style: link
             icon_class: dev
