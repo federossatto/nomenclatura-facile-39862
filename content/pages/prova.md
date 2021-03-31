@@ -27,6 +27,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
+    image: images/avatar.png
   - section_id: cta
     type: section_cta
     title: Feedback
