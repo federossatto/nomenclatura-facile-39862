@@ -19,7 +19,7 @@ sections:
     type: section_content
     image: images/analysis-2030265.jpg
     image_position: left
-    title: PERCHÉ QUESTO SITO WEB?
+    title: COME SI FORMANO?
     content: >
       Questo sito web è stato creato con il fine di poter aiutare i futuri
       studenti con la nomenclatura. L’idea di questo sito è nata durante la
