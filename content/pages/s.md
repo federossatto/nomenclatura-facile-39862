@@ -191,17 +191,15 @@ sections:
       - title: Sali quaternari
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          #### Composto binario
 
+          ##### Si forma con: metallo + H + non metallo + O
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   *AgH2BO3 (orto)borato biacido di argento*
 
+          <!---->
 
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
 seo:
