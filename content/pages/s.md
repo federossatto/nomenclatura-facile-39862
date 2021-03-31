@@ -20,7 +20,7 @@ sections:
           *   *FeH<sub>3</sub>* idruro ferrico
           *   *CH<sub>4</sub> metano*
         actions:
-          - label: lorem-ipsum
+          - label: vai alla lezione
             url: '#'
             style: link
             icon_class: dev
