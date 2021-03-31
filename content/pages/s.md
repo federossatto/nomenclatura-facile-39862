@@ -28,7 +28,7 @@ sections:
         content: |
           #### Composto binario
 
-          ##### Si forma con: H+metallo
+          ##### Si forma con: H+alogeno o zolfo
 
           *   *HF acido fluoridrico*
         actions: []
