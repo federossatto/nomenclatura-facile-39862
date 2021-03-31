@@ -14,11 +14,9 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          # Composto binario
+          #### Composto binario
 
-          ### Si forma conH+metallo
-
-
+          ##### Si forma con: H+metallo
 
           *   *FeH3 idruro ferrico*
         actions: []
