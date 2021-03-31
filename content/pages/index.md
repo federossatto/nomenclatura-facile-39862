@@ -39,10 +39,23 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: PERCHÉ QUESTO SITO WEB?
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Questo sito web è stato creato con il fine di poter aiutare i futuri
+      studenti con la nomenclatura. L’idea di questo sito è nata durante la
+      quarantena a causa del COVID-19, per passare il tempo, data la nostra
+      familiarità con la chimica e le materie scientifiche ci è sembrata
+      un’ottime idea iniziare questo progetto, inizialmente come se fosse un
+      gioco e ora come un contributo a chi dopo di noi dovrà affrontare
+      l’appassionante argomento della nomenclatura. Vi auguriamo di poter
+      comprendere e apprezzare la nomenclatura come noi l’abbiamo, la stiamo e
+      la apprezzeremo. Inoltre vi ricordiamo che è possibile inviare una mail di
+      feedback tramite l’indirizzo email che trovate nei contatti, vi
+      ringraziamo in anticipo per il vostro contributo;
+
+
+
+
+      ***Lo staff di Nomenclatura Facile***
     actions:
       - label: View Demo
         url: /docs/getting-started
