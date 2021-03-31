@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: NOMENCLATURA FACILE
+  - title: IDRURI
     actions: []
     type: section_hero
     image: images/image329.jpg
