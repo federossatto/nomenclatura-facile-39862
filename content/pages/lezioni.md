@@ -1,6 +1,5 @@
 ---
 title: LEZIONI
-subtitle: lorem-ipsum
 seo:
   title: ''
   description: ''
