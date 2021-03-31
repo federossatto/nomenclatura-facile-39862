@@ -65,7 +65,7 @@ sections:
       vostro nome e una mail, ed il gioco è fatto.
     actions:
       - label: Invia
-        url: href="mailto:nomenclatura.facile@mail.com"'
+        url: "https://google.com"
         style: primary
 seo:
   title: Stackbit Libris Theme
