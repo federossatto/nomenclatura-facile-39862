@@ -10,17 +10,6 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
-        title_url: 'https://themes.stackbit.com/demos/exto/'
-        content: A portfolio theme for Unibit
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon_class: dev
-            new_window: false
-            no_follow: false
-            type: action
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
