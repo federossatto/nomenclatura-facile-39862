@@ -21,6 +21,22 @@ sections:
             new_window: false
             no_follow: false
             type: action
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
