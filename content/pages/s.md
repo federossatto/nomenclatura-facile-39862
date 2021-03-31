@@ -37,10 +37,6 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Fjord
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
-        content: A minimal blogging theme for Unibit
 seo:
   title: Showcase
   description: This is the showcase page
