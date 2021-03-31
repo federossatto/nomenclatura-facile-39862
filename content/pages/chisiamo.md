@@ -15,6 +15,11 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/3.jpg
         content: >
+          ##### TEST E PROGRAMMAZIONE
+
+
+
+
           Buongiorno a tutti, mi chiamo Federico e sono uno studente di seconda
           liceo scientifico, indirizzo scienze applicate. Sono molto
           appassionato di fotografia, musica e materie scientifiche ed
@@ -22,8 +27,6 @@ sections:
           permettere a chiunque di essere aiutato nell’argomento della
           nomenclatura inorganica. Spero di esservi di aiuto. Se volete potete
           anche inviare una mail di feedback tramite la sezione apposita.
-
-
 
 
           Buona continuazione
