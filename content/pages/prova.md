@@ -10,9 +10,10 @@ sections:
     col_number: three
     grid_items:
       - title: DEFINIZIONE
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          **Gli idruri sono una classe di composti binari, ovvero formati da due
+          elementi, uno dei quali è sempre l’idrogeno H e l’altro è
+          costantemente un metallo.**
         actions: []
   - section_id: text-img
     type: section_content
