@@ -34,9 +34,7 @@ export default class Blog extends React.Component {
                     {_.get(post, 'frontmatter.excerpt', null) && (<React.Fragment>
                         <p className="post-excerpt">{_.get(post, 'frontmatter.excerpt', null)}</p>
                         {((_.get(this.props, 'page.frontmatter.has_more_link', null) === true) && _.get(this.props, 'page.frontmatter.more_link_text', null)) && (
-                        <p className="read-more">
-                          <Link className="read-more-link" href={withPrefix(_.get(post, '__metadata.urlPath', null))}>{_.get(this.props, 'page.frontmatter.more_link_text', null)}</Link>
-                        </p>
+                        
                         )}
                     </React.Fragment>)}
                   </article>
