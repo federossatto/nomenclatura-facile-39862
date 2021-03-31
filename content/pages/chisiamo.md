@@ -1,5 +1,5 @@
 ---
-title: Chi Siamo
+title: Nomenclatura Facile - Chi Siamo
 sections:
   - section_id: hero
     type: section_hero
