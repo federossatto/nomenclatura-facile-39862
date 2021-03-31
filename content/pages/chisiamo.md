@@ -45,7 +45,7 @@ sections:
           Buon proseguimento
       - title: Micael
         title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
+        image: images/old-books-436498.jpg
         content: >
           ##### *TEST*
 
