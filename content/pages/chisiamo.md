@@ -11,7 +11,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
+      - title: Federico
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/3.jpg
         content: A portfolio theme for Unibit
