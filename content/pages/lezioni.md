@@ -7,6 +7,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/green-maple.jpg
 ---
 ciao
 
