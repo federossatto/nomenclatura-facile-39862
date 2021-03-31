@@ -76,7 +76,7 @@ sections:
         style: primary
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
+    title: Feedback
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Invia
