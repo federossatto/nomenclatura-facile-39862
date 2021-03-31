@@ -35,7 +35,6 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: post
-subtitle: xxxx
 excerpt: >-
   Rounded Rectangle:  HOME  CHI SIAMO  LEZIONI  TEST  LASCIACI UN FEEDBACK  
   IDRURI   (LEZIONE)  Gli idruri sono una classe di composti binari, ovvero
