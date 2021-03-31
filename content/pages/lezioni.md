@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Lezioni
-    image: images/5.jpg
+    image: images/image329.jpg
   - section_id: showcase
     type: section_grid
     col_number: three
