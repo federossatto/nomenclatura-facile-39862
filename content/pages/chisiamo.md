@@ -73,8 +73,11 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      *
+    content: |+
+      *   Edoardo: Grafica, spot e programmazione
+
+      *   Federica, Margherita e Simone:  tester nella fase alpha
+
     actions: []
     type: section_content
 seo:
