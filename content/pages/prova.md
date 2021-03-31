@@ -28,8 +28,7 @@ sections:
         url: /docs/getting-started
         style: secondary
     image: images/avatar.png
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     col_number: two
     grid_items:
       - title: COME SI FORMANO?
