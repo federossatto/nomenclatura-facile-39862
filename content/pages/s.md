@@ -18,7 +18,7 @@ sections:
 
           ##### Si forma con: H+metallo
 
-          *   *FeH3* idruro ferrico
+          *   *FeH<sub>3* idruro ferrico
           *   *CH\<sub>4\</sub> metano*
         actions: []
         type: grid_item
