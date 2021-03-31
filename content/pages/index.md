@@ -33,7 +33,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - label: Vai alla pagina
-            url: /style-guide
+            url: '/ #'
             style: link
   - section_id: text-img
     type: section_content
