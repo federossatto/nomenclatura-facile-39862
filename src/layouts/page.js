@@ -23,9 +23,7 @@ export default class Page extends React.Component {
                   </div>
                 </header>
                 <div className="inner-md outer">
-                  <div className="post-content">
-                    {markdownify(_.get(this.props, 'page.markdown', null))}
-                  </div>
+                  
                 </div>
               </article>
             </Layout>
