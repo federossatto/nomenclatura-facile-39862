@@ -77,7 +77,11 @@ sections:
   - section_id: cta
     type: section_cta
     title: Feedback
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Qualunque feedback, anche se di poche parole, è ben accetto per avere un
+      riscontro sul nostro sito. Segnalateci eventuali problematiche riscontrate
+      o consigli che ci volete dare. Tutto ciò che bisogna fare è mettere il
+      vostro nome e una mail, ed il gioco è fatto.
     actions:
       - label: Invia
         url: 'href?="mailto:nomenclatura.facile@mail.com"'
