@@ -22,7 +22,7 @@ sections:
           *   *CH<sub>4</sub> metano*
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Idracidi
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
