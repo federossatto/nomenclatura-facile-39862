@@ -18,8 +18,7 @@ sections:
   - section_id: lorem-ipsum
     col_number: two
     grid_items:
-      - title: COME SI FORMANO?
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions: []
         type: grid_item
         image: images/1.jpg
