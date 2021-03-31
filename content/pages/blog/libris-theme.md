@@ -1,27 +1,21 @@
 ---
 title: Introducing The Libris Theme
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
-  accumsan vis phasellus adipiscing. Rounded Rectangle:  HOME  CHI SIAMO 
-  LEZIONI  TEST  LASCIACI UN FEEDBACK   IDRURI   (LEZIONE)  Gli idruri sono una
-  classe di composti binari, ovvero formati da due elementi, uno dei quali è
-  sempre l’idrogeno H e l’altro è costantemente un metallo.  DEFINIZIONE  COME
-  SI FORMANO?  FORMULA BRUTA  Prendendo come esempio l’idrogeno e il ferro,
-  bisogna innanzitutto sapere le valenze. Valenza H=1 e valenze Fe= 2 e 3 ma in
-  questo caso 2. Nei composti binari, per scrivere la formula bruta, è
-  necessario invertire le valenze degli elementi, quindi il composto sarà FeH2
-  (1 non si scrive).     N.B.: negli idruri l’idrogeno è posizionato sempre dopo
-  il metallo perché ha l’elettronegatività costantemente superiore.     NOME 
-  Per quanto riguarda il nome si scrive sempre idruro seguito da:      1.  di +
-  NOME DELL’ELEMENTO se quest’ultimo ha solo un numero come
-  valenza.               NaH idruro di sodio     2. NOME DELL’ELEMENTO con le
-  seguenti desinenze in base alla valenza utilizzata:       -ico se si usa la
-  valenza più alta, -oso se si usa la più bassa.     FeH2 idruro ferroso  FeH3
-  idruro ferrico     N.B.: per alcuni elementi si usano altre radici come ad
-  esempio per l’oro che si scrive aurico o auroso.     Inoltre alcuni composti
-  vengono chiamati con altri nomi:                  CH4 metano                 
-  NH3 ammoniaca                  PH3 fosfina
+  FORMULA BRUTA  Prendendo come esempio l’idrogeno e il ferro, bisogna
+  innanzitutto sapere le valenze. Valenza H=1 e valenze Fe= 2 e 3 ma in questo
+  caso 2. Nei composti binari, per scrivere la formula bruta, è necessario
+  invertire le valenze degli elementi, quindi il composto sarà FeH2 (1 non si
+  scrive).     N.B.: negli idruri l’idrogeno è posizionato sempre dopo il
+  metallo perché ha l’elettronegatività costantemente superiore.     NOME  Per
+  quanto riguarda il nome si scrive sempre idruro seguito da:      1.  di + NOME
+  DELL’ELEMENTO se quest’ultimo ha solo un numero come valenza.              
+  NaH idruro di sodio     2. NOME DELL’ELEMENTO con le seguenti desinenze in
+  base alla valenza utilizzata:       -ico se si usa la valenza più alta, -oso
+  se si usa la più bassa.     FeH2 idruro ferroso  FeH3 idruro ferrico     N.B.:
+  per alcuni elementi si usano altre radici come ad esempio per l’oro che si
+  scrive aurico o auroso.     Inoltre alcuni composti vengono chiamati con altri
+  nomi:                  CH4 metano                  NH3
+  ammoniaca                  PH3 fosfina
 date: '2019-04-24'
 image: images/3.jpg
 seo:
