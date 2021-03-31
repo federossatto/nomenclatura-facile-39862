@@ -31,9 +31,7 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/1.jpg
         content: >
-          #### LEZIONI
-
-
+          ##### LEZIONI
 
 
           Salve, sono Luca, un liceale in ambito scientifico che frequenta
