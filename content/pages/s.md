@@ -25,10 +25,6 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
         content: A minimal blogging theme for Unibit
-      - title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
 seo:
   title: Showcase
   description: This is the showcase page
