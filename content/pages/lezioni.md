@@ -21,7 +21,7 @@ sections:
           *   *CH<sub>4</sub> metano*
         actions:
           - label: vai alla lezione
-            url: '#'
+            url: /idrurilezionetradizionale
             style: link
             icon_class: dev
             new_window: false
