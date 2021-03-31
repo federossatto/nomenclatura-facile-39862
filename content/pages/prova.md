@@ -25,7 +25,7 @@ sections:
         type: grid_item
         image: images/ritagliata.png
         content: >
-          ### ***GLI IDRURI ***
+          ### GLI IDRURI 
 
 
           ###### *In Breve*
