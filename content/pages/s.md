@@ -72,7 +72,7 @@ sections:
 
           ##### Si forma con: O+metallo
 
-          *   *Fe2O<sub>3</sub> ossido ferrico*
+          *   *Fe2</sub>O<sub>3</sub> ossido ferrico*
 
         actions: []
         type: grid_item
