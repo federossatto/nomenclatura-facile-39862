@@ -112,7 +112,7 @@ sections:
 
           ##### Si forma con: O + non metallo
 
-          *   *B2O3 anidride borica*
+          *   *B2O<sub>3</sub> anidride borica*
 
           <!---->
 
