@@ -30,7 +30,17 @@ sections:
       - title: Luca
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/1.jpg
-        content: A personal theme for Unibit
+        content: >
+          Salve, sono Luca, un liceale in ambito scientifico che frequenta
+          l’indirizzo di scienze applicate. La mia più grande passione è il
+          tennis che pratico da parecchi anni. Amo creare ed inventare pertanto
+          ho intrapreso questo percorso con i miei compagni. Spero che questo
+          sito vi possa essere d’aiuto per eventuali chiarimenti =).
+
+
+
+
+          Buon proseguimento                                         
       - title: Micael
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
