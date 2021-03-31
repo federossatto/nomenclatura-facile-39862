@@ -1,8 +1,4 @@
 ---
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
 date: '2019-03-10'
 seo:
   title: New Conference
