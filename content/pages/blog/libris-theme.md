@@ -48,7 +48,7 @@ excerpt: >-
   quest’ultimo ha solo un numero come valenza.               NaH idruro di
   sodio     2. NOME DELL’ELEMENTO con le seguenti desinenze in base alla valenza
   utilizzata:       -ico se si usa la valenza più alta, -oso se si usa la più
-  bassa.     FeH<sub>2 idruro ferroso  FeH3 idruro ferrico     N.B.: per alcuni
+  bassa.     FeH<sub>2</sub> idruro ferroso  FeH3 idruro ferrico     N.B.: per alcuni
   elementi si usano altre radici come ad esempio per l’oro che si scrive aurico
   o auroso.     Inoltre alcuni composti vengono chiamati con altri
   nomi:                  CH4 metano                  NH3
