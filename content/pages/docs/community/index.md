@@ -1,7 +1,4 @@
 ---
-excerpt: >-
-  We'd love it if you participate in the Libris community. Find out how to get
-  connected.
 seo:
   title: Where To Get Support
   description: This is the community page
