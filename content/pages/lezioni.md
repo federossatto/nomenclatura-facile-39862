@@ -146,7 +146,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Ossiacidi
+      - title: OSSIACIDI
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |+
