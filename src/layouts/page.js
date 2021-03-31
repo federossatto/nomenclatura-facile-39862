@@ -23,7 +23,6 @@ export default class Page extends React.Component {
                   </div>
                 </header>
                 <div className="inner-md outer">
-                  
                 </div>
               </article>
             </Layout>
