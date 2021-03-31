@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Chi Siamo
-    image: images/5.jpg
+    image: images/image329.jpg
     content: |
       Il Nostro TEAM
   - section_id: showcase
