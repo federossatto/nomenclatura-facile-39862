@@ -33,7 +33,7 @@ sections:
           *   *HF acido fluoridrico*
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Sali Binari
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
