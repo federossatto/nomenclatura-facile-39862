@@ -29,7 +29,6 @@ export default class Blog extends React.Component {
                     <Link className="post-thumbnail" href={withPrefix(_.get(post, '__metadata.urlPath', null))}><img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(this.props, 'page.frontmatter.thumb_image_alt', null)} /></Link>
                     )}
                     <header className="post-header">
-                      
                       <h2 className="post-title line-left"><Link href={withPrefix(_.get(post, '__metadata.urlPath', null))} rel="bookmark">{_.get(post, 'frontmatter.title', null)}</Link></h2>
                     </header>
                     {_.get(post, 'frontmatter.excerpt', null) && (<React.Fragment>
