@@ -5,7 +5,6 @@ sections:
     type: section_hero
     title: LEZIONI
     image: images/image329.jpg
-    content: An optional subtitle
   - section_id: docs-overview
     type: section_docs
     col_number: three
