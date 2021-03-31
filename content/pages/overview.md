@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: LEZIONI
-    image: images/5.jpg
+    image: images/image329.jpg
     content: An optional subtitle
   - section_id: docs-overview
     type: section_docs
