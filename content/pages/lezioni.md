@@ -9,5 +9,3 @@ seo:
 layout: page
 image: images/green-maple.jpg
 ---
-ciao
-
