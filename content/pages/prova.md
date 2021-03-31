@@ -20,10 +20,6 @@ sections:
     grid_items:
       - title: COME SI FORMANO?
         image_alt: lorem-ipsum
-        content: |
-          **
-
-          **
         actions: []
         type: grid_item
       - title: lorem-ipsum
