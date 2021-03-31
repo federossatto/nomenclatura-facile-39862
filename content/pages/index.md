@@ -65,7 +65,7 @@ sections:
       vostro nome e una mail, ed il gioco è fatto.
     actions:
       - label: Invia
-        url: "https://google.com"
+        url: "mailto:"
         style: primary
 seo:
   title: Stackbit Libris Theme
