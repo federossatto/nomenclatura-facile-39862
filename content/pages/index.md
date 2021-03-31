@@ -16,7 +16,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - label: Vai alla pagina
-            url: /docs
+            url: /lezioni
             style: link
       - title: Esercizi
         content: >-
