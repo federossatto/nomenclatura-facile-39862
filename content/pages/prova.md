@@ -5,6 +5,8 @@ sections:
     actions: []
     type: section_hero
     image: images/image329.jpg
+    content: |
+      sf f 
   - section_id: features
     type: section_grid
     col_number: two
