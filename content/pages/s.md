@@ -25,17 +25,17 @@ sections:
       - title: Idracidi
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Composto binario
+
+          ##### Si forma con: H+metallo
+
+          *   \<sub>*3*\</sub> idruro ferrico*FeH*
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          *   \<sub>*4*\</sub>* metanoCH*
 
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
 seo:
