@@ -74,7 +74,14 @@ sections:
 
           *   *Fe<sub>2</sub>O<sub>3</sub> ossido ferrico*
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
 seo:
   title: Showcase
